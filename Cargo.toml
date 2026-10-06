@@ -1,0 +1,10 @@
+[package]
+name = "cubefs"
+repository = "https://github.com/dualys/cubefs"
+description = "Content-addressed filesystem via KPACK recipes"
+license = "AGPL-3.0-or-later"
+edition = "2024"
+version = "0.1.0"
+
+[dependencies]
+kpack = "0.1.0"
